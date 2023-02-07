@@ -1,4 +1,4 @@
 ---
-title: Welcome to Armchair Philosophy @ UT Austin
+title: Welcome to my blog
 ---
 
